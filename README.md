@@ -1,4 +1,4 @@
-# 👋 About Me
+# 👋 Hi I Am Swagat 
 
 🎯 Aspiring Data Analyst | Python • SQL • Power BI • Excel • EDA  
 📊 Turning Data into Insights and Business Decisions  
