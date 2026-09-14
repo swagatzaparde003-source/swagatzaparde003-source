@@ -1,10 +1,11 @@
-# 👋 Hi I Am Swagat 
+# 👋 Hi, I'm Swagat 
 
-🎯 Aspiring Data Analyst | Python • SQL • Power BI • Excel • EDA  
-📊 Turning Data into Insights and Business Decisions  
-🎓 BCA Graduate  
-💡 Interested in Data Analytics, Machine Learning & Data Visualization  
-🚀 Open to internships and entry-level Data Analyst opportunities
+
+            🎯 Aspiring Data Analyst | Python • SQL • Power BI • Excel • EDA  
+            📊 Turning Data into Insights and Business Decisions  
+            🎓 BCA Graduate  
+            💡 Interested in Data Analytics, Machine Learning & Data Visualization  
+             🚀 Open to internships and entry-level Data Analyst opportunities
 
 Let's connect and collaborate!
 
