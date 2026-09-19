@@ -61,16 +61,3 @@ I'm interested in Data Analytics, Business Intelligence and Machine Learning.
 
 
 
-<a href="https://github.com/YOUR-USERNAME">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/dark.svg">
-    <img alt="Swagat Zaparde - Data Analyst" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/light.svg">
-  </picture>
-  <p align="center">
-    <img
-      src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/dist/github-jet.svg"
-      alt="GitHub Jet Heatmap"
-      width="100%"
-    />
-  </p>
-</a>
